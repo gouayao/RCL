@@ -1,4 +1,4 @@
-## Few-shot Image Generation with Reverse Contrastive Learning [Neural Networks 2023](https://authors.elsevier.com/a/1h%7EJN3BBjKnvfi)
+## Few-shot Image Generation with Reverse Contrastive Learning [Neural Networks 2023](https://www.sciencedirect.com/science/article/pii/S0893608023005804?dgcid=author)
 
 > Gou Y, Lin M, Zhang YS, He ZZ, He YJ <br> <br>
 
